@@ -1,2 +1,13 @@
 # Ridge
-Ridge regression (Hilt and Seegrist, 1977)
+# Language: Python
+# Input: CSV 
+# Output: none
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.19.1,sklearn==0.23.1,seaborn==0.11.1,matplotlib==3.3.3
+
+Ridge regression (Hilt and Seecrist, 1977)
+Input is a TXT file of keyword-value pairs (Tab-delimited):
+csvfile: observables (CSV format)
+features: list of features (one per line, TXT)
+
+Output is to the screen.
