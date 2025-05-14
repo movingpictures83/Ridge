@@ -65,5 +65,5 @@ Index(['hiv_vload', 'fs_total', 'fd_is', 'shannon_index', 'simpson_index',
  749 754 757 758 760 761 766 768 776 780 782 785 786 787 793 794 796 798
  799 803 804 805]
 1
-Training R^2: 1.00
+Training R^2: 1.00 
 Test R^2: 0.78
